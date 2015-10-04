@@ -1,0 +1,1 @@
+Dieses Verzeichnis dient für Präsentationen und andere Dokumente.
